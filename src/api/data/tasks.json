@@ -1,0 +1,36 @@
+{
+  "john.doe@example.com": {
+    "ashes of al'ar - kael'thas sunstrider": {
+      "done": false,
+      "label": "Ashes of Al'ar - Kael'thas Sunstrider"
+    },
+    "mimiron's head - yogg-saron": {
+      "done": true,
+      "label": "Mimiron's Head - Yogg-Saron"
+    },
+    "invincible - the lich king": {
+      "done": true,
+      "label": "Invincible - The Lich King"
+    },
+    "kor'kron juggernaut - garrosh hellscream": {
+      "done": false,
+      "label": "Kor'kron Juggernaut - Garrosh Hellscream"
+    },
+    "felsteel annihilator - archimonde": {
+      "done": false,
+      "label": "Felsteel Annihilator - Archimonde"
+    },
+    "felblaze infernal - gul'dan": {
+      "done": false,
+      "label": "Felblaze Infernal - Gul'dan"
+    },
+    "hellfire infernal - gul'dan (mythic)": {
+      "done": false,
+      "label": "Hellfire Infernal - Gul'dan (Mythic)"
+    },
+    "shackled ur'zul - argus the unmaker (mythic)": {
+      "done": true,
+      "label": "Shackled Ur'zul - Argus the Unmaker (Mythic)"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "world-of-warcraft-planner",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "react-scripts build",
+    "start": "react-scripts start",
+    "start:api": "node src/api/index.js"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.0",
+    "@material-ui/icons": "^4.0",
+    "@material-ui/styles": "^4.0",
+    "express": "^4.17",
+    "prop-types": "^15.7",
+    "react": "^16.8",
+    "react-dom": "^16.8",
+    "react-scripts": "^3.0"
+  },
+  "private": true
+}

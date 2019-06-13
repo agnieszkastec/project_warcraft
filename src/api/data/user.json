@@ -1,0 +1,8 @@
+{
+  "john.doe@example.com": {
+    "firstName": "John",
+    "password": "12345",
+    "secondName": "Doe",
+    "token": null
+  }
+}
